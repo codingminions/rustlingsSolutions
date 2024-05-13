@@ -1,3 +1,9 @@
+# About
+
+This repository contains my solutions for the Rustlings exercises. 
+
+More information about the Rustlings available below:
+
 <div class="oranda-hide">
 
 # rustlings 🦀❤️
